@@ -21,8 +21,8 @@ class MyApp extends StatelessWidget {
               border: Border.all(color: Colors.blue, width: 2),
             ),
             child: const Text(
-              "CMRCET",
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              "Hello Guys",
+              style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
             ),
           ),
         ),
